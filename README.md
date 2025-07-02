@@ -1,2 +1,15 @@
-# MVP_Puc_Final
-Este repositório apresenta um MVP desenvolvido para a disciplina de Análise Exploratória e Pré-processamento de Dados da PUC-Rio, utilizando o Car Evaluation Dataset da UCI. O projeto realiza a análise estatística, visualização e preparação dos dados com foco em organização, clareza e qualidade, atendendo aos critérios exigidos pela disciplina.
+# MVP - Car Evaluation
+
+Este repositório contém o notebook desenvolvido para o projeto de MVP da PUC-Rio, utilizando o dataset "Car Evaluation" da UCI.
+
+## Acesse no Google Colab
+
+Clique no link abaixo para abrir e executar no Google Colab:
+
+👉 [Abrir no Colab](https://colab.research.google.com/github/Szyfman/MVP_Puc_Final/blob/main/MVP_Puc_Final.ipynb)
+
+## Dataset
+
+O dataset `car.csv` foi carregado da versão RAW do GitHub:
+
+https://raw.githubusercontent.com/Szyfman/MVP_Puc_Final/main/car.csv
